@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Thomas SANSBERRO
-🔭 I’m currently working on a **HTTP Server in C** <br>👯 I’m looking to collaborate on **Any Project**<br>💬 Ask me about **JS, Angular, React, PHP, Laravel**<br>📫 How to reach me **sansberrot@gmail.com**<br>📄Know about my experiences https://www.linkedin.com/in/thomas-sansberro/
+🔭 I’m currently working on a **HTTP Server in C** <br>👯 I’m looking to collaborate on **Any Project**<br>💬 Ask me about **JS, Angular, React, PHP, Laravel**<br>📫 How to reach me **sansberrot@gmail.com**<br>📄Know about my experiences https://www.linkedin.com/in/thomas-sansberro/<br>👀 Check my portfolio https://thomas-sansberro.vercel.app
 
 ![](https://komarev.com/ghpvc/?username=tac1DEV)
 
